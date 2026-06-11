@@ -1,0 +1,68 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply bg-paper text-ink antialiased;
+  }
+  ::selection {
+    @apply bg-ink text-paper;
+  }
+  :focus-visible {
+    @apply outline outline-1 outline-offset-4 outline-ink;
+  }
+}
+
+@layer components {
+  /* Контейнер сайта */
+  .wrap {
+    @apply mx-auto w-full max-w-site px-5 sm:px-8;
+  }
+
+  /* Кнопки */
+  .btn {
+    @apply inline-flex items-center justify-center gap-3 px-8 py-4 text-xs uppercase tracking-wide2 transition-colors duration-200;
+  }
+  .btn-primary {
+    @apply btn bg-ink text-paper hover:bg-neutral-700;
+  }
+  .btn-outline {
+    @apply btn border border-ink text-ink hover:bg-ink hover:text-paper;
+  }
+
+  /* Подчёркнутая ссылка */
+  .link-line {
+    @apply underline decoration-1 underline-offset-4 hover:decoration-2;
+  }
+
+  /* Поля формы */
+  .field {
+    @apply w-full border-0 border-b border-line bg-transparent py-3 text-sm placeholder:text-muted focus:border-ink focus:outline-none focus:ring-0;
+  }
+
+  /* Заголовки секций */
+  .h-section {
+    @apply text-[11px] uppercase tracking-wide2 text-muted;
+  }
+}
+
+@layer utilities {
+  /* Плавное появление контента */
+  .fade-up {
+    animation: fadeUp 0.7s ease both;
+  }
+  @keyframes fadeUp {
+    from {
+      opacity: 0;
+      transform: translateY(14px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+}
