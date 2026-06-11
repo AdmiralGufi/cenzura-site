@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800">
+  <rect width="600" height="800" fill="#edeae4"/>
+  <rect x="28" y="28" width="544" height="744" fill="none" stroke="#111111" stroke-opacity="0.14" stroke-width="1"/>
+  <text x="300" y="392" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="30" letter-spacing="10" fill="#111111">ПЛАТЬЕ</text>
+  <line x1="270" y1="424" x2="330" y2="424" stroke="#111111" stroke-opacity="0.35" stroke-width="1"/>
+  <text x="300" y="462" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" letter-spacing="6" fill="#8a8782">06</text>
+  <text x="300" y="730" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" letter-spacing="9" fill="#111111" fill-opacity="0.55">CENZURA</text>
+</svg>
