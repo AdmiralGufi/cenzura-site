@@ -1,118 +1,912 @@
 {
-  "syncedAt": "2026-06-11T00:00:00.000Z",
-  "source": "demo",
+  "syncedAt": "2026-06-12T18:31:36.171Z",
+  "source": "wb-content-api",
   "products": [
     {
-      "id": 900000001,
-      "name": "Пальто оверсайз из шерсти",
-      "category": "Верхняя одежда",
-      "description": "Объёмный силуэт, шерсть в составе, скрытая застёжка. Пальто, которое не просит внимания — оно его получает. Демо-товар: запустите npm run sync, чтобы загрузить реальный каталог с Wildberries.",
-      "priceCurrent": 12990,
-      "priceOld": 15990,
-      "images": ["/demo/p1-1.svg", "/demo/p1-2.svg"],
-      "sizes": ["S", "M", "L"],
-      "colors": ["Чёрный"],
-      "rating": 4.9,
-      "feedbacks": 27,
-      "demo": true
+      "id": 146657959,
+      "name": "Костюм спортивный без начеса",
+      "category": "Костюмы спортивные",
+      "description": "Летний спортивный костюм из двунитки.",
+      "priceCurrent": 954,
+      "priceOld": 4770,
+      "images": [
+        "https://basket-10.wbbasket.ru/vol1466/part146657/146657959/images/big/1.webp",
+        "https://basket-10.wbbasket.ru/vol1466/part146657/146657959/images/big/2.webp",
+        "https://basket-10.wbbasket.ru/vol1466/part146657/146657959/images/big/3.webp",
+        "https://basket-10.wbbasket.ru/vol1466/part146657/146657959/images/big/4.webp"
+      ],
+      "sizes": [
+        "42",
+        "44",
+        "46",
+        "48"
+      ],
+      "colors": [
+        "Бежевый"
+      ],
+      "rating": null,
+      "feedbacks": null
     },
     {
-      "id": 900000002,
-      "name": "Худи oversize с вышивкой",
-      "category": "Худи и свитшоты",
-      "description": "Плотный футер 380 г/м², свободный крой, минималистичная вышивка на груди. Базовая вещь, сделанная без компромиссов. Демо-товар: запустите npm run sync, чтобы загрузить реальный каталог с Wildberries.",
-      "priceCurrent": 4590,
-      "priceOld": 5990,
-      "images": ["/demo/p2-1.svg", "/demo/p2-2.svg"],
-      "sizes": ["XS", "S", "M", "L", "XL"],
-      "colors": ["Графит"],
-      "rating": 4.8,
-      "feedbacks": 64,
-      "demo": true
+      "id": 146657958,
+      "name": "Костюм спортивный без начеса",
+      "category": "Костюмы спортивные",
+      "description": "Летний спортивный костюм из двунитки.",
+      "priceCurrent": 954,
+      "priceOld": 4770,
+      "images": [
+        "https://basket-10.wbbasket.ru/vol1466/part146657/146657958/images/big/1.webp",
+        "https://basket-10.wbbasket.ru/vol1466/part146657/146657958/images/big/2.webp",
+        "https://basket-10.wbbasket.ru/vol1466/part146657/146657958/images/big/3.webp",
+        "https://basket-10.wbbasket.ru/vol1466/part146657/146657958/images/big/4.webp"
+      ],
+      "sizes": [
+        "46",
+        "42",
+        "44",
+        "48"
+      ],
+      "colors": [
+        "Серый"
+      ],
+      "rating": null,
+      "feedbacks": null
     },
     {
-      "id": 900000003,
-      "name": "Футболка oversize из плотного хлопка",
-      "category": "Футболки",
-      "description": "Хлопок 240 г/м², прямой крой, спущенное плечо. Никаких принтов — только форма и ткань. Демо-товар: запустите npm run sync, чтобы загрузить реальный каталог с Wildberries.",
-      "priceCurrent": 2190,
-      "priceOld": 2790,
-      "images": ["/demo/p3-1.svg", "/demo/p3-2.svg"],
-      "sizes": ["S", "M", "L"],
-      "colors": ["Белый"],
-      "rating": 4.9,
-      "feedbacks": 112,
-      "demo": true
+      "id": 146657957,
+      "name": "Костюм спортивный без начеса",
+      "category": "Костюмы спортивные",
+      "description": "Летний спортивный костюм из двунитки.",
+      "priceCurrent": 954,
+      "priceOld": 4770,
+      "images": [
+        "https://basket-10.wbbasket.ru/vol1466/part146657/146657957/images/big/1.webp",
+        "https://basket-10.wbbasket.ru/vol1466/part146657/146657957/images/big/2.webp",
+        "https://basket-10.wbbasket.ru/vol1466/part146657/146657957/images/big/3.webp"
+      ],
+      "sizes": [
+        "42",
+        "44",
+        "46",
+        "48"
+      ],
+      "colors": [
+        "Черный"
+      ],
+      "rating": null,
+      "feedbacks": null
     },
     {
-      "id": 900000004,
-      "name": "Брюки палаццо",
-      "category": "Брюки",
-      "description": "Высокая посадка, свободная широкая штанина, ткань с тяжёлым драпом. Двигаются вместе с вами. Демо-товар: запустите npm run sync, чтобы загрузить реальный каталог с Wildberries.",
-      "priceCurrent": 4990,
-      "priceOld": null,
-      "images": ["/demo/p4-1.svg", "/demo/p4-2.svg"],
-      "sizes": ["XS", "S", "M", "L"],
-      "colors": ["Чёрный"],
-      "rating": 4.7,
-      "feedbacks": 38,
-      "demo": true
+      "id": 146657956,
+      "name": "Костюм спортивный без начеса",
+      "category": "Костюмы спортивные",
+      "description": "Летний спортивный костюм из двунитки.",
+      "priceCurrent": 1908,
+      "priceOld": 4770,
+      "images": [
+        "https://basket-10.wbbasket.ru/vol1466/part146657/146657956/images/big/1.webp",
+        "https://basket-10.wbbasket.ru/vol1466/part146657/146657956/images/big/2.webp",
+        "https://basket-10.wbbasket.ru/vol1466/part146657/146657956/images/big/3.webp",
+        "https://basket-10.wbbasket.ru/vol1466/part146657/146657956/images/big/4.webp"
+      ],
+      "sizes": [
+        "44",
+        "48",
+        "42",
+        "46"
+      ],
+      "colors": [
+        "Зеленый"
+      ],
+      "rating": null,
+      "feedbacks": null
     },
     {
-      "id": 900000005,
-      "name": "Рубашка свободного кроя",
-      "category": "Рубашки",
-      "description": "Хлопковая рубашка с мягким воротником и опущенной линией плеча. Носите навыпуск, поверх, под — как угодно. Демо-товар: запустите npm run sync, чтобы загрузить реальный каталог с Wildberries.",
-      "priceCurrent": 3890,
-      "priceOld": 4490,
-      "images": ["/demo/p5-1.svg", "/demo/p5-2.svg"],
-      "sizes": ["S", "M", "L"],
-      "colors": ["Молочный"],
-      "rating": 4.8,
-      "feedbacks": 45,
-      "demo": true
+      "id": 146657955,
+      "name": "Костюм спортивный без начеса",
+      "category": "Костюмы спортивные",
+      "description": "Летний спортивный костюм из двунитки.",
+      "priceCurrent": 954,
+      "priceOld": 4770,
+      "images": [
+        "https://basket-10.wbbasket.ru/vol1466/part146657/146657955/images/big/1.webp",
+        "https://basket-10.wbbasket.ru/vol1466/part146657/146657955/images/big/2.webp",
+        "https://basket-10.wbbasket.ru/vol1466/part146657/146657955/images/big/3.webp"
+      ],
+      "sizes": [
+        "42",
+        "44",
+        "46",
+        "48"
+      ],
+      "colors": [
+        "Фиолетовый"
+      ],
+      "rating": null,
+      "feedbacks": null
     },
     {
-      "id": 900000006,
-      "name": "Платье-комбинация из вискозы",
-      "category": "Платья",
-      "description": "Текучая вискоза, тонкие бретели, длина миди. Минимум деталей — максимум эффекта. Демо-товар: запустите npm run sync, чтобы загрузить реальный каталог с Wildberries.",
-      "priceCurrent": 5490,
-      "priceOld": 6990,
-      "images": ["/demo/p6-1.svg", "/demo/p6-2.svg"],
-      "sizes": ["XS", "S", "M"],
-      "colors": ["Чёрный"],
-      "rating": 4.9,
-      "feedbacks": 51,
-      "demo": true
+      "id": 146657707,
+      "name": "Костюм спортивный без начеса",
+      "category": "Костюмы спортивные",
+      "description": "Летний спортивный костюм из двунитки.",
+      "priceCurrent": 1908,
+      "priceOld": 4770,
+      "images": [
+        "https://basket-10.wbbasket.ru/vol1466/part146657/146657707/images/big/1.webp",
+        "https://basket-10.wbbasket.ru/vol1466/part146657/146657707/images/big/2.webp",
+        "https://basket-10.wbbasket.ru/vol1466/part146657/146657707/images/big/3.webp",
+        "https://basket-10.wbbasket.ru/vol1466/part146657/146657707/images/big/4.webp",
+        "https://basket-10.wbbasket.ru/vol1466/part146657/146657707/images/big/5.webp"
+      ],
+      "sizes": [
+        "42",
+        "48",
+        "44",
+        "46"
+      ],
+      "colors": [
+        "Розовый",
+        "Фуксия"
+      ],
+      "rating": null,
+      "feedbacks": null
     },
     {
-      "id": 900000007,
-      "name": "Лонгслив базовый",
-      "category": "Лонгсливы",
-      "description": "Эластичный хлопок, посадка по фигуре, усиленные швы. Основа любого образа CENZURA. Демо-товар: запустите npm run sync, чтобы загрузить реальный каталог с Wildberries.",
-      "priceCurrent": 2490,
-      "priceOld": null,
-      "images": ["/demo/p7-1.svg", "/demo/p7-2.svg"],
-      "sizes": ["S", "M", "L", "XL"],
-      "colors": ["Серый меланж"],
-      "rating": 4.8,
-      "feedbacks": 89,
-      "demo": true
+      "id": 101231785,
+      "name": "Костюм спортивный теплый с начесом",
+      "category": "Костюмы спортивные",
+      "description": "Женский спортивный костюм с начесом есть в гардеробе любой современной девушки - такая одежда практична и универсальна.",
+      "priceCurrent": 1698,
+      "priceOld": 8490,
+      "images": [
+        "https://basket-06.wbbasket.ru/vol1012/part101231/101231785/images/big/1.webp",
+        "https://basket-06.wbbasket.ru/vol1012/part101231/101231785/images/big/2.webp",
+        "https://basket-06.wbbasket.ru/vol1012/part101231/101231785/images/big/3.webp",
+        "https://basket-06.wbbasket.ru/vol1012/part101231/101231785/images/big/4.webp",
+        "https://basket-06.wbbasket.ru/vol1012/part101231/101231785/images/big/5.webp",
+        "https://basket-06.wbbasket.ru/vol1012/part101231/101231785/images/big/6.webp"
+      ],
+      "sizes": [
+        "44",
+        "46",
+        "52",
+        "54",
+        "42",
+        "48",
+        "50",
+        "56"
+      ],
+      "colors": [
+        "Черный"
+      ],
+      "rating": null,
+      "feedbacks": null
     },
     {
-      "id": 900000008,
-      "name": "Юбка миди с разрезом",
-      "category": "Юбки",
-      "description": "Прямой силуэт, разрез сзади, скрытая молния. Строгая геометрия, ничего лишнего. Демо-товар: запустите npm run sync, чтобы загрузить реальный каталог с Wildberries.",
-      "priceCurrent": 3990,
-      "priceOld": 4590,
-      "images": ["/demo/p8-1.svg", "/demo/p8-2.svg"],
-      "sizes": ["XS", "S", "M"],
-      "colors": ["Чёрный"],
-      "rating": 4.7,
-      "feedbacks": 33,
-      "demo": true
+      "id": 96019348,
+      "name": "Костюм спортивный теплый с начесом",
+      "category": "Костюмы спортивные",
+      "description": "Женский спортивный костюм с начесом есть в гардеробе любой современной девушки - такая одежда практична и универсальна.",
+      "priceCurrent": 1698,
+      "priceOld": 8490,
+      "images": [
+        "https://basket-05.wbbasket.ru/vol960/part96019/96019348/images/big/1.webp",
+        "https://basket-05.wbbasket.ru/vol960/part96019/96019348/images/big/2.webp",
+        "https://basket-05.wbbasket.ru/vol960/part96019/96019348/images/big/3.webp",
+        "https://basket-05.wbbasket.ru/vol960/part96019/96019348/images/big/4.webp",
+        "https://basket-05.wbbasket.ru/vol960/part96019/96019348/images/big/5.webp",
+        "https://basket-05.wbbasket.ru/vol960/part96019/96019348/images/big/6.webp"
+      ],
+      "sizes": [
+        "46",
+        "54",
+        "56",
+        "50",
+        "44",
+        "42",
+        "48",
+        "52"
+      ],
+      "colors": [
+        "Синий"
+      ],
+      "rating": null,
+      "feedbacks": null
+    },
+    {
+      "id": 96019335,
+      "name": "Костюм спортивный теплый с начесом",
+      "category": "Костюмы спортивные",
+      "description": "Женский спортивный костюм с начесом есть в гардеробе любой современной девушки - такая одежда практична и универсальна.",
+      "priceCurrent": 849,
+      "priceOld": 8490,
+      "images": [
+        "https://basket-05.wbbasket.ru/vol960/part96019/96019335/images/big/1.webp",
+        "https://basket-05.wbbasket.ru/vol960/part96019/96019335/images/big/2.webp",
+        "https://basket-05.wbbasket.ru/vol960/part96019/96019335/images/big/3.webp",
+        "https://basket-05.wbbasket.ru/vol960/part96019/96019335/images/big/4.webp",
+        "https://basket-05.wbbasket.ru/vol960/part96019/96019335/images/big/5.webp",
+        "https://basket-05.wbbasket.ru/vol960/part96019/96019335/images/big/6.webp"
+      ],
+      "sizes": [
+        "50",
+        "52",
+        "54",
+        "44",
+        "46",
+        "48",
+        "56",
+        "42"
+      ],
+      "colors": [
+        "Серый графит"
+      ],
+      "rating": null,
+      "feedbacks": null
+    },
+    {
+      "id": 95988451,
+      "name": "Костюм спортивный теплый с начесом",
+      "category": "Костюмы спортивные",
+      "description": "Женский спортивный костюм с начесом есть в гардеробе любой современной девушки - такая одежда практична и универсальна.",
+      "priceCurrent": 1698,
+      "priceOld": 8490,
+      "images": [
+        "https://basket-05.wbbasket.ru/vol959/part95988/95988451/images/big/1.webp",
+        "https://basket-05.wbbasket.ru/vol959/part95988/95988451/images/big/2.webp",
+        "https://basket-05.wbbasket.ru/vol959/part95988/95988451/images/big/3.webp",
+        "https://basket-05.wbbasket.ru/vol959/part95988/95988451/images/big/4.webp",
+        "https://basket-05.wbbasket.ru/vol959/part95988/95988451/images/big/5.webp",
+        "https://basket-05.wbbasket.ru/vol959/part95988/95988451/images/big/6.webp"
+      ],
+      "sizes": [
+        "42",
+        "44",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56"
+      ],
+      "colors": [
+        "Голубой"
+      ],
+      "rating": null,
+      "feedbacks": null
+    },
+    {
+      "id": 95987706,
+      "name": "Костюм спортивный теплый с начесом",
+      "category": "Костюмы спортивные",
+      "description": "Женский спортивный костюм с начесом есть в гардеробе любой современной девушки - такая одежда практична и универсальна.",
+      "priceCurrent": 1698,
+      "priceOld": 8490,
+      "images": [
+        "https://basket-05.wbbasket.ru/vol959/part95987/95987706/images/big/1.webp",
+        "https://basket-05.wbbasket.ru/vol959/part95987/95987706/images/big/2.webp",
+        "https://basket-05.wbbasket.ru/vol959/part95987/95987706/images/big/3.webp",
+        "https://basket-05.wbbasket.ru/vol959/part95987/95987706/images/big/4.webp",
+        "https://basket-05.wbbasket.ru/vol959/part95987/95987706/images/big/5.webp",
+        "https://basket-05.wbbasket.ru/vol959/part95987/95987706/images/big/6.webp"
+      ],
+      "sizes": [
+        "42",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "44"
+      ],
+      "colors": [
+        "Сиреневый"
+      ],
+      "rating": null,
+      "feedbacks": null
+    },
+    {
+      "id": 90552106,
+      "name": "Костюм летний с шортами",
+      "category": "Костюмы спортивные",
+      "description": "Костюм из двунитки",
+      "priceCurrent": 917,
+      "priceOld": 3820,
+      "images": [
+        "https://basket-05.wbbasket.ru/vol905/part90552/90552106/images/big/1.webp",
+        "https://basket-05.wbbasket.ru/vol905/part90552/90552106/images/big/2.webp",
+        "https://basket-05.wbbasket.ru/vol905/part90552/90552106/images/big/3.webp",
+        "https://basket-05.wbbasket.ru/vol905/part90552/90552106/images/big/4.webp",
+        "https://basket-05.wbbasket.ru/vol905/part90552/90552106/images/big/5.webp"
+      ],
+      "sizes": [
+        "42 Oversize",
+        "44 Oversize",
+        "46 oversize",
+        "48 oversize"
+      ],
+      "colors": [
+        "Черный"
+      ],
+      "rating": null,
+      "feedbacks": null
+    },
+    {
+      "id": 90552096,
+      "name": "Костюм летний с шортами",
+      "category": "Костюмы спортивные",
+      "description": "Костюм из двунитки",
+      "priceCurrent": 917,
+      "priceOld": 3820,
+      "images": [
+        "https://basket-05.wbbasket.ru/vol905/part90552/90552096/images/big/1.webp",
+        "https://basket-05.wbbasket.ru/vol905/part90552/90552096/images/big/2.webp",
+        "https://basket-05.wbbasket.ru/vol905/part90552/90552096/images/big/3.webp",
+        "https://basket-05.wbbasket.ru/vol905/part90552/90552096/images/big/4.webp",
+        "https://basket-05.wbbasket.ru/vol905/part90552/90552096/images/big/5.webp",
+        "https://basket-05.wbbasket.ru/vol905/part90552/90552096/images/big/6.webp"
+      ],
+      "sizes": [
+        "42 Oversize",
+        "44 Oversize",
+        "46 oversize",
+        "48 oversize"
+      ],
+      "colors": [
+        "Сиреневый"
+      ],
+      "rating": null,
+      "feedbacks": null
+    },
+    {
+      "id": 90552087,
+      "name": "Костюм летний с шортами",
+      "category": "Костюмы спортивные",
+      "description": "Костюм из двунитки",
+      "priceCurrent": 917,
+      "priceOld": 3820,
+      "images": [
+        "https://basket-05.wbbasket.ru/vol905/part90552/90552087/images/big/1.webp",
+        "https://basket-05.wbbasket.ru/vol905/part90552/90552087/images/big/2.webp",
+        "https://basket-05.wbbasket.ru/vol905/part90552/90552087/images/big/3.webp",
+        "https://basket-05.wbbasket.ru/vol905/part90552/90552087/images/big/4.webp"
+      ],
+      "sizes": [
+        "42 Oversize",
+        "44 Oversize",
+        "46 oversize",
+        "48 oversize"
+      ],
+      "colors": [
+        "Розовый"
+      ],
+      "rating": null,
+      "feedbacks": null
+    },
+    {
+      "id": 90552073,
+      "name": "Костюм летний с шортами",
+      "category": "Костюмы спортивные",
+      "description": "Костюм из двунитки",
+      "priceCurrent": 917,
+      "priceOld": 3820,
+      "images": [
+        "https://basket-05.wbbasket.ru/vol905/part90552/90552073/images/big/1.webp",
+        "https://basket-05.wbbasket.ru/vol905/part90552/90552073/images/big/2.webp",
+        "https://basket-05.wbbasket.ru/vol905/part90552/90552073/images/big/3.webp",
+        "https://basket-05.wbbasket.ru/vol905/part90552/90552073/images/big/4.webp",
+        "https://basket-05.wbbasket.ru/vol905/part90552/90552073/images/big/5.webp",
+        "https://basket-05.wbbasket.ru/vol905/part90552/90552073/images/big/6.webp"
+      ],
+      "sizes": [
+        "42 Oversize",
+        "44 Oversize",
+        "46 oversize",
+        "48 oversize"
+      ],
+      "colors": [
+        "Бирюзовый"
+      ],
+      "rating": null,
+      "feedbacks": null
+    },
+    {
+      "id": 90552058,
+      "name": "Костюм летний с шортами",
+      "category": "Костюмы спортивные",
+      "description": "Костюм из двунитки",
+      "priceCurrent": 917,
+      "priceOld": 3820,
+      "images": [
+        "https://basket-05.wbbasket.ru/vol905/part90552/90552058/images/big/1.webp",
+        "https://basket-05.wbbasket.ru/vol905/part90552/90552058/images/big/2.webp",
+        "https://basket-05.wbbasket.ru/vol905/part90552/90552058/images/big/3.webp",
+        "https://basket-05.wbbasket.ru/vol905/part90552/90552058/images/big/4.webp",
+        "https://basket-05.wbbasket.ru/vol905/part90552/90552058/images/big/5.webp",
+        "https://basket-05.wbbasket.ru/vol905/part90552/90552058/images/big/6.webp"
+      ],
+      "sizes": [
+        "42 Oversize",
+        "44 Oversize",
+        "46 oversize",
+        "48 oversize"
+      ],
+      "colors": [
+        "Зеленый"
+      ],
+      "rating": null,
+      "feedbacks": null
+    },
+    {
+      "id": 86906141,
+      "name": "Костюмы спортивные",
+      "category": "Костюмы спортивные",
+      "description": "Костюм летний из двунитки",
+      "priceCurrent": 3080,
+      "priceOld": 5600,
+      "images": [
+        "https://basket-05.wbbasket.ru/vol869/part86906/86906141/images/big/1.webp",
+        "https://basket-05.wbbasket.ru/vol869/part86906/86906141/images/big/2.webp",
+        "https://basket-05.wbbasket.ru/vol869/part86906/86906141/images/big/3.webp",
+        "https://basket-05.wbbasket.ru/vol869/part86906/86906141/images/big/4.webp",
+        "https://basket-05.wbbasket.ru/vol869/part86906/86906141/images/big/5.webp",
+        "https://basket-05.wbbasket.ru/vol869/part86906/86906141/images/big/6.webp"
+      ],
+      "sizes": [
+        "56 oversize",
+        "50 oversize",
+        "52 oversize",
+        "54 oversize"
+      ],
+      "colors": [
+        "Зеленый"
+      ],
+      "rating": null,
+      "feedbacks": null
+    },
+    {
+      "id": 86256492,
+      "name": "Костюм спортивный летний",
+      "category": "Костюмы спортивные",
+      "description": "Костюм летний из двунитки",
+      "priceCurrent": 1399,
+      "priceOld": 3780,
+      "images": [
+        "https://basket-05.wbbasket.ru/vol862/part86256/86256492/images/big/1.webp",
+        "https://basket-05.wbbasket.ru/vol862/part86256/86256492/images/big/2.webp",
+        "https://basket-05.wbbasket.ru/vol862/part86256/86256492/images/big/3.webp",
+        "https://basket-05.wbbasket.ru/vol862/part86256/86256492/images/big/4.webp",
+        "https://basket-05.wbbasket.ru/vol862/part86256/86256492/images/big/5.webp",
+        "https://basket-05.wbbasket.ru/vol862/part86256/86256492/images/big/6.webp"
+      ],
+      "sizes": [
+        "42 Oversize",
+        "46 oversize",
+        "48 oversize",
+        "44 Oversize"
+      ],
+      "colors": [
+        "Зеленый",
+        "Салатовый"
+      ],
+      "rating": null,
+      "feedbacks": null
+    },
+    {
+      "id": 86255516,
+      "name": "Костюм спортивный летний",
+      "category": "Костюмы спортивные",
+      "description": "Костюм летний из двунитки",
+      "priceCurrent": 1777,
+      "priceOld": 3780,
+      "images": [
+        "https://basket-05.wbbasket.ru/vol862/part86255/86255516/images/big/1.webp",
+        "https://basket-05.wbbasket.ru/vol862/part86255/86255516/images/big/2.webp",
+        "https://basket-05.wbbasket.ru/vol862/part86255/86255516/images/big/3.webp",
+        "https://basket-05.wbbasket.ru/vol862/part86255/86255516/images/big/4.webp",
+        "https://basket-05.wbbasket.ru/vol862/part86255/86255516/images/big/5.webp",
+        "https://basket-05.wbbasket.ru/vol862/part86255/86255516/images/big/6.webp"
+      ],
+      "sizes": [
+        "46 oversize",
+        "48 oversize",
+        "42 Oversize",
+        "44 Oversize"
+      ],
+      "colors": [
+        "Голубой"
+      ],
+      "rating": null,
+      "feedbacks": null
+    },
+    {
+      "id": 86252783,
+      "name": "Костюм спортивный летний",
+      "category": "Костюмы спортивные",
+      "description": "Костюм летний из двунитки",
+      "priceCurrent": 1399,
+      "priceOld": 3780,
+      "images": [
+        "https://basket-05.wbbasket.ru/vol862/part86252/86252783/images/big/1.webp",
+        "https://basket-05.wbbasket.ru/vol862/part86252/86252783/images/big/2.webp",
+        "https://basket-05.wbbasket.ru/vol862/part86252/86252783/images/big/3.webp",
+        "https://basket-05.wbbasket.ru/vol862/part86252/86252783/images/big/4.webp",
+        "https://basket-05.wbbasket.ru/vol862/part86252/86252783/images/big/5.webp",
+        "https://basket-05.wbbasket.ru/vol862/part86252/86252783/images/big/6.webp"
+      ],
+      "sizes": [
+        "46 oversize",
+        "48 oversize",
+        "42 Oversize",
+        "44 Oversize"
+      ],
+      "colors": [
+        "Черный"
+      ],
+      "rating": null,
+      "feedbacks": null
+    },
+    {
+      "id": 85412991,
+      "name": "Костюм спортивный с шортами",
+      "category": "Костюмы спортивные",
+      "description": "Костюм из двунитки",
+      "priceCurrent": 1277,
+      "priceOld": 4120,
+      "images": [
+        "https://basket-05.wbbasket.ru/vol854/part85412/85412991/images/big/1.webp",
+        "https://basket-05.wbbasket.ru/vol854/part85412/85412991/images/big/2.webp",
+        "https://basket-05.wbbasket.ru/vol854/part85412/85412991/images/big/3.webp",
+        "https://basket-05.wbbasket.ru/vol854/part85412/85412991/images/big/4.webp",
+        "https://basket-05.wbbasket.ru/vol854/part85412/85412991/images/big/5.webp",
+        "https://basket-05.wbbasket.ru/vol854/part85412/85412991/images/big/6.webp"
+      ],
+      "sizes": [
+        "44 Oversize",
+        "56 oversize",
+        "52 oversize",
+        "48 oversize",
+        "50 oversize",
+        "54 oversize",
+        "42 Oversize",
+        "46 oversize"
+      ],
+      "colors": [
+        "Голубой"
+      ],
+      "rating": null,
+      "feedbacks": null
+    },
+    {
+      "id": 85412502,
+      "name": "Костюм спортивный с шортами",
+      "category": "Костюмы спортивные",
+      "description": "Костюм из двунитки",
+      "priceCurrent": 1195,
+      "priceOld": 4120,
+      "images": [
+        "https://basket-05.wbbasket.ru/vol854/part85412/85412502/images/big/1.webp",
+        "https://basket-05.wbbasket.ru/vol854/part85412/85412502/images/big/2.webp",
+        "https://basket-05.wbbasket.ru/vol854/part85412/85412502/images/big/3.webp",
+        "https://basket-05.wbbasket.ru/vol854/part85412/85412502/images/big/4.webp",
+        "https://basket-05.wbbasket.ru/vol854/part85412/85412502/images/big/5.webp",
+        "https://basket-05.wbbasket.ru/vol854/part85412/85412502/images/big/6.webp"
+      ],
+      "sizes": [
+        "52 oversize",
+        "48 oversize",
+        "50 oversize",
+        "54 oversize",
+        "42 Oversize",
+        "44 Oversize",
+        "46 oversize",
+        "56 oversize"
+      ],
+      "colors": [
+        "Розовый"
+      ],
+      "rating": null,
+      "feedbacks": null
+    },
+    {
+      "id": 85411170,
+      "name": "Костюм спортивный с шортами",
+      "category": "Костюмы спортивные",
+      "description": "Костюм из двунитки",
+      "priceCurrent": 1195,
+      "priceOld": 4120,
+      "images": [
+        "https://basket-05.wbbasket.ru/vol854/part85411/85411170/images/big/1.webp",
+        "https://basket-05.wbbasket.ru/vol854/part85411/85411170/images/big/2.webp",
+        "https://basket-05.wbbasket.ru/vol854/part85411/85411170/images/big/3.webp",
+        "https://basket-05.wbbasket.ru/vol854/part85411/85411170/images/big/4.webp",
+        "https://basket-05.wbbasket.ru/vol854/part85411/85411170/images/big/5.webp",
+        "https://basket-05.wbbasket.ru/vol854/part85411/85411170/images/big/6.webp"
+      ],
+      "sizes": [
+        "42 Oversize",
+        "48 oversize",
+        "52 oversize",
+        "50 oversize",
+        "54 oversize",
+        "44 Oversize",
+        "46 oversize",
+        "56 oversize"
+      ],
+      "colors": [
+        "Зеленый"
+      ],
+      "rating": null,
+      "feedbacks": null
+    },
+    {
+      "id": 77902516,
+      "name": "Костюм спортивный летний",
+      "category": "Худи спортивные",
+      "description": "Трикотажный демисезонный спортивный костюм оверсайз: тёплое худи с капюшоном и карманом кенгуру + прямые свободные штаны-джоггеры с карманами. Гипоаллергенный дышащий материал, подходит для прогулок, работы, тренировок и дома.",
+      "priceCurrent": 1526,
+      "priceOld": 4770,
+      "images": [
+        "https://basket-05.wbbasket.ru/vol779/part77902/77902516/images/big/1.webp",
+        "https://basket-05.wbbasket.ru/vol779/part77902/77902516/images/big/2.webp",
+        "https://basket-05.wbbasket.ru/vol779/part77902/77902516/images/big/3.webp",
+        "https://basket-05.wbbasket.ru/vol779/part77902/77902516/images/big/4.webp",
+        "https://basket-05.wbbasket.ru/vol779/part77902/77902516/images/big/5.webp",
+        "https://basket-05.wbbasket.ru/vol779/part77902/77902516/images/big/6.webp"
+      ],
+      "sizes": [
+        "42 Oversize",
+        "44 Oversize",
+        "46 oversize",
+        "48 oversize",
+        "50 oversize"
+      ],
+      "colors": [
+        "Розовый"
+      ],
+      "rating": null,
+      "feedbacks": null
+    },
+    {
+      "id": 75389144,
+      "name": "Костюм спортивный",
+      "category": "Костюмы спортивные",
+      "description": "Костюм летний из двунитки",
+      "priceCurrent": 2688,
+      "priceOld": 5600,
+      "images": [
+        "https://basket-05.wbbasket.ru/vol753/part75389/75389144/images/big/1.webp",
+        "https://basket-05.wbbasket.ru/vol753/part75389/75389144/images/big/2.webp",
+        "https://basket-05.wbbasket.ru/vol753/part75389/75389144/images/big/3.webp",
+        "https://basket-05.wbbasket.ru/vol753/part75389/75389144/images/big/4.webp",
+        "https://basket-05.wbbasket.ru/vol753/part75389/75389144/images/big/5.webp",
+        "https://basket-05.wbbasket.ru/vol753/part75389/75389144/images/big/6.webp"
+      ],
+      "sizes": [
+        "56 oversize",
+        "50 oversize",
+        "52 oversize",
+        "54 oversize"
+      ],
+      "colors": [
+        "Оранжевый"
+      ],
+      "rating": null,
+      "feedbacks": null
+    },
+    {
+      "id": 75388352,
+      "name": "Костюм спортивный",
+      "category": "Костюмы спортивные",
+      "description": "Костюм летний из двунитки",
+      "priceCurrent": 2688,
+      "priceOld": 5600,
+      "images": [
+        "https://basket-05.wbbasket.ru/vol753/part75388/75388352/images/big/1.webp",
+        "https://basket-05.wbbasket.ru/vol753/part75388/75388352/images/big/2.webp",
+        "https://basket-05.wbbasket.ru/vol753/part75388/75388352/images/big/3.webp",
+        "https://basket-05.wbbasket.ru/vol753/part75388/75388352/images/big/4.webp",
+        "https://basket-05.wbbasket.ru/vol753/part75388/75388352/images/big/5.webp",
+        "https://basket-05.wbbasket.ru/vol753/part75388/75388352/images/big/6.webp"
+      ],
+      "sizes": [
+        "52 oversize",
+        "50 oversize",
+        "54 oversize",
+        "56 oversize"
+      ],
+      "colors": [
+        "Синий"
+      ],
+      "rating": null,
+      "feedbacks": null
+    },
+    {
+      "id": 70877898,
+      "name": "Костюм спортивный летний",
+      "category": "Худи спортивные",
+      "description": "Трикотажный демисезонный спортивный костюм оверсайз: тёплое худи с капюшоном и карманом кенгуру + прямые свободные штаны-джоггеры с карманами. Гипоаллергенный дышащий материал, подходит для прогулок, работы, тренировок и дома.",
+      "priceCurrent": 1908,
+      "priceOld": 4770,
+      "images": [
+        "https://basket-04.wbbasket.ru/vol708/part70877/70877898/images/big/1.webp",
+        "https://basket-04.wbbasket.ru/vol708/part70877/70877898/images/big/2.webp",
+        "https://basket-04.wbbasket.ru/vol708/part70877/70877898/images/big/3.webp",
+        "https://basket-04.wbbasket.ru/vol708/part70877/70877898/images/big/4.webp",
+        "https://basket-04.wbbasket.ru/vol708/part70877/70877898/images/big/5.webp",
+        "https://basket-04.wbbasket.ru/vol708/part70877/70877898/images/big/6.webp"
+      ],
+      "sizes": [
+        "42 Oversize",
+        "44 Oversize",
+        "46 oversize",
+        "48 oversize",
+        "50 oversize"
+      ],
+      "colors": [
+        "Синий"
+      ],
+      "rating": null,
+      "feedbacks": null
+    },
+    {
+      "id": 70877897,
+      "name": "Костюм спортивный летний",
+      "category": "Худи спортивные",
+      "description": "Трикотажный демисезонный спортивный костюм оверсайз: тёплое худи с капюшоном и карманом кенгуру + прямые свободные штаны-джоггеры с карманами. Гипоаллергенный дышащий материал, подходит для прогулок, работы, тренировок и дома.",
+      "priceCurrent": 1908,
+      "priceOld": 4770,
+      "images": [
+        "https://basket-04.wbbasket.ru/vol708/part70877/70877897/images/big/1.webp",
+        "https://basket-04.wbbasket.ru/vol708/part70877/70877897/images/big/2.webp",
+        "https://basket-04.wbbasket.ru/vol708/part70877/70877897/images/big/3.webp",
+        "https://basket-04.wbbasket.ru/vol708/part70877/70877897/images/big/4.webp",
+        "https://basket-04.wbbasket.ru/vol708/part70877/70877897/images/big/5.webp",
+        "https://basket-04.wbbasket.ru/vol708/part70877/70877897/images/big/6.webp"
+      ],
+      "sizes": [
+        "42 Oversize",
+        "44 Oversize",
+        "46 oversize",
+        "48 oversize",
+        "50 oversize"
+      ],
+      "colors": [
+        "Зеленый"
+      ],
+      "rating": null,
+      "feedbacks": null
+    },
+    {
+      "id": 66341324,
+      "name": "Костюм спортивный летний",
+      "category": "Костюмы спортивные",
+      "description": "Из двунитки",
+      "priceCurrent": 1049,
+      "priceOld": 4770,
+      "images": [
+        "https://basket-04.wbbasket.ru/vol663/part66341/66341324/images/big/1.webp",
+        "https://basket-04.wbbasket.ru/vol663/part66341/66341324/images/big/2.webp",
+        "https://basket-04.wbbasket.ru/vol663/part66341/66341324/images/big/3.webp",
+        "https://basket-04.wbbasket.ru/vol663/part66341/66341324/images/big/4.webp",
+        "https://basket-04.wbbasket.ru/vol663/part66341/66341324/images/big/5.webp",
+        "https://basket-04.wbbasket.ru/vol663/part66341/66341324/images/big/6.webp"
+      ],
+      "sizes": [
+        "44",
+        "42"
+      ],
+      "colors": [
+        "Зеленый"
+      ],
+      "rating": null,
+      "feedbacks": null
+    },
+    {
+      "id": 66207125,
+      "name": "Костюм спортивный без начеса",
+      "category": "Костюмы спортивные",
+      "description": "Летний спортивный костюм из двунитки.",
+      "priceCurrent": 1431,
+      "priceOld": 4770,
+      "images": [
+        "https://basket-04.wbbasket.ru/vol662/part66207/66207125/images/big/1.webp",
+        "https://basket-04.wbbasket.ru/vol662/part66207/66207125/images/big/2.webp",
+        "https://basket-04.wbbasket.ru/vol662/part66207/66207125/images/big/3.webp",
+        "https://basket-04.wbbasket.ru/vol662/part66207/66207125/images/big/4.webp",
+        "https://basket-04.wbbasket.ru/vol662/part66207/66207125/images/big/5.webp",
+        "https://basket-04.wbbasket.ru/vol662/part66207/66207125/images/big/6.webp"
+      ],
+      "sizes": [
+        "M (oversize)",
+        "L (OVERSIZE)",
+        "S (Oversize)"
+      ],
+      "colors": [
+        "Бежевый меланж"
+      ],
+      "rating": null,
+      "feedbacks": null
+    },
+    {
+      "id": 66204278,
+      "name": "Костюм спортивный без начеса",
+      "category": "Костюмы спортивные",
+      "description": "Летний спортивный костюм из двунитки.",
+      "priceCurrent": 1670,
+      "priceOld": 4770,
+      "images": [
+        "https://basket-04.wbbasket.ru/vol662/part66204/66204278/images/big/1.webp",
+        "https://basket-04.wbbasket.ru/vol662/part66204/66204278/images/big/2.webp",
+        "https://basket-04.wbbasket.ru/vol662/part66204/66204278/images/big/3.webp",
+        "https://basket-04.wbbasket.ru/vol662/part66204/66204278/images/big/4.webp",
+        "https://basket-04.wbbasket.ru/vol662/part66204/66204278/images/big/5.webp",
+        "https://basket-04.wbbasket.ru/vol662/part66204/66204278/images/big/6.webp"
+      ],
+      "sizes": [
+        "M (oversize)",
+        "L (OVERSIZE)",
+        "S (Oversize)"
+      ],
+      "colors": [
+        "Лавандовый"
+      ],
+      "rating": null,
+      "feedbacks": null
+    },
+    {
+      "id": 63228456,
+      "name": "Костюм спортивный летний",
+      "category": "Худи спортивные",
+      "description": "Трикотажный демисезонный спортивный костюм оверсайз: тёплое худи с капюшоном и карманом кенгуру + прямые свободные штаны-джоггеры с карманами. Гипоаллергенный дышащий материал, подходит для прогулок, работы, тренировок и дома.",
+      "priceCurrent": 1765,
+      "priceOld": 4770,
+      "images": [
+        "https://basket-04.wbbasket.ru/vol632/part63228/63228456/images/big/1.webp",
+        "https://basket-04.wbbasket.ru/vol632/part63228/63228456/images/big/2.webp",
+        "https://basket-04.wbbasket.ru/vol632/part63228/63228456/images/big/3.webp",
+        "https://basket-04.wbbasket.ru/vol632/part63228/63228456/images/big/4.webp",
+        "https://basket-04.wbbasket.ru/vol632/part63228/63228456/images/big/5.webp",
+        "https://basket-04.wbbasket.ru/vol632/part63228/63228456/images/big/6.webp"
+      ],
+      "sizes": [
+        "50 oversize",
+        "46 oversize",
+        "48 oversize",
+        "42 Oversize",
+        "44 Oversize"
+      ],
+      "colors": [
+        "Голубой"
+      ],
+      "rating": null,
+      "feedbacks": null
+    },
+    {
+      "id": 51110723,
+      "name": "Шапка женская мужская унисекс бини",
+      "category": "Шапки",
+      "description": "Стильная женская, мужская и на подростка, шапка унисекс, изготовлена из высококачественного трикотажа, определенно станет лучшим выбором для осени, зимы и весны. Зимняя шапка подойдёт, как взрослым так и подросткам, так как не имеет размера (эластична и хорошо тянется). Шапка бини также имеет универсальный актуальный дизайн. Можно носить с подворотом и без отворота! Мягкая вязаная шапка подойдет практически к любому образу: спорт, классика, повседневный, рабочий.",
+      "priceCurrent": 223,
+      "priceOld": 890,
+      "images": [
+        "https://basket-04.wbbasket.ru/vol511/part51110/51110723/images/big/1.webp",
+        "https://basket-04.wbbasket.ru/vol511/part51110/51110723/images/big/2.webp",
+        "https://basket-04.wbbasket.ru/vol511/part51110/51110723/images/big/3.webp",
+        "https://basket-04.wbbasket.ru/vol511/part51110/51110723/images/big/4.webp",
+        "https://basket-04.wbbasket.ru/vol511/part51110/51110723/images/big/5.webp",
+        "https://basket-04.wbbasket.ru/vol511/part51110/51110723/images/big/6.webp"
+      ],
+      "sizes": [
+        "50-58"
+      ],
+      "colors": [
+        "Белый"
+      ],
+      "rating": null,
+      "feedbacks": null
     }
   ]
 }
