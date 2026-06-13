@@ -5,15 +5,22 @@
 @layer base {
   html {
     scroll-behavior: smooth;
+    /* Предотвращает горизонтальный скролл из-за выезжающего меню */
+    overflow-x: hidden;
   }
   body {
     @apply bg-paper text-ink antialiased;
+    overflow-x: hidden;
   }
   ::selection {
     @apply bg-ink text-paper;
   }
   :focus-visible {
     @apply outline outline-1 outline-offset-4 outline-ink;
+  }
+  /* Минимальный размер тач-области для доступности */
+  button, a {
+    -webkit-tap-highlight-color: transparent;
   }
 }
 
@@ -25,13 +32,13 @@
 
   /* Кнопки */
   .btn {
-    @apply inline-flex items-center justify-center gap-3 px-8 py-4 text-xs uppercase tracking-wide2 transition-colors duration-200;
+    @apply inline-flex min-h-[44px] items-center justify-center gap-3 px-8 py-3 text-xs uppercase tracking-wide2 transition-colors duration-200;
   }
   .btn-primary {
-    @apply btn bg-ink text-paper hover:bg-neutral-700;
+    @apply btn bg-ink text-paper active:bg-neutral-700 hover:bg-neutral-700;
   }
   .btn-outline {
-    @apply btn border border-ink text-ink hover:bg-ink hover:text-paper;
+    @apply btn border border-ink text-ink active:bg-ink active:text-paper hover:bg-ink hover:text-paper;
   }
 
   /* Подчёркнутая ссылка */
@@ -64,5 +71,14 @@
       opacity: 1;
       transform: translateY(0);
     }
+  }
+
+  /* Скрытый скроллбар (горизонтальные списки) */
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
   }
 }
